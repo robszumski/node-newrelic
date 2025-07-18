@@ -217,7 +217,7 @@
     "json-bigint": "^1.0.0",
     "json-stringify-safe": "^5.0.0",
     "module-details-from-path": "^1.0.3",
-    "readable-stream": "^3.6.1",
+    "readable-stream": "^4.7.0",
     "require-in-the-middle": "^7.4.0",
     "semver": "^7.5.2",
     "winston-transport": "^4.5.0"
@@ -269,7 +269,7 @@
     "self-cert": "^2.0.0",
     "should": "*",
     "sinon": "^5.1.1",
-    "superagent": "^9.0.1"
+    "superagent": "^10.2.2"
   },
   "repository": {
     "type": "git",
